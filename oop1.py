@@ -14,5 +14,8 @@ class Person(object): #class
 p_1 = Person("Richmond",46) #class instance
 p_2 = Person("Rashmin", 22) 
 
-print(p_1.Name, p_1.Age)#output
-print(p_2.Name, p_2.Age)#output
+print("Name:",p_1.Name) #output
+print("Age:",p_1.Age)
+print("Name:",p_2.Name)
+print("Age:",p_2.Age)
+
