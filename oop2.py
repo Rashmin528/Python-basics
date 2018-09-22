@@ -11,7 +11,7 @@ class Person(object): #class
 		print(self.Name)
 		print(self.Age)
 
-class Student(Person): #multiple inheritence (class)
+class Student(Person): # inheritence (class)
 	
 	Id = '' #class variable  
 
