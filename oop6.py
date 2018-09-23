@@ -1,4 +1,4 @@
-#@classmethod and @staticmethod
+# both @classmethod and @staticmethod
 class Pizza:
 	def __init__(self,ingredients):
 		self.ingredients = ingredients
