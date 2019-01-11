@@ -1,5 +1,5 @@
 try:
-        a = 2/2
+        a = 1/0
         print(a)
 except ZeroDivisionError:
         print("Error")
