@@ -4,6 +4,6 @@ if x == 31:
 elif x == 21:
 	print(True)
 else:
-	print("Not found")
+	print("Not found:")
 print(x)
 
