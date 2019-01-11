@@ -1,11 +1,10 @@
 try:
-	print(1/0)
+        a = 2/2
+        print(a)
 except ZeroDivisionError:
-	print("Error")
+        print("Error")
 finally:
-	print("try dividing differnt number")
-
-
+        print("try dividing differnt number")
 
 
 
